@@ -27,7 +27,7 @@ void Display(void)
 void Delay(void)
 {
 	long t;
-	for (t = 0; t < 70000000; t++);
+	for (t = 0; t < 700000000; t++);
 }
 
 int main(void)
